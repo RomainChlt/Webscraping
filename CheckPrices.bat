@@ -1,0 +1,1 @@
+C:/Users/romai/Anaconda3/python.exe c:/Users/romai/Desktop/Computer/Scripts/scraper.py
