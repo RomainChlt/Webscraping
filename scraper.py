@@ -78,22 +78,22 @@ def check_price(website,URL,max_price):
 #*******************#
 website = 'Sonovente'
 #Pioneer DJ DDJ SB3
-URL = 'https://www.sonovente.com/pioneer-ddj-sb-3-p60497.html'
-check_price(website, URL, 220.0)
+#URL = 'https://www.sonovente.com/pioneer-ddj-sb-3-p60497.html'
+#check_price(website, URL, 220.0)
 #PIONEER DJ DDJ-400
-URL = 'https://www.sonovente.com/pioneer-ddj-400-p62558.html'
-check_price(website, URL, 220.0)
+#URL = 'https://www.sonovente.com/pioneer-ddj-400-p62558.html'
+#check_price(website, URL, 220.0)
 #PIONEER DJ DDJ SB 2
-URL = 'https://www.sonovente.com/pioneer-ddj-sb-2-p47728.html'
-check_price(website, URL, 180.0)
+#URL = 'https://www.sonovente.com/pioneer-ddj-sb-2-p47728.html'
+#check_price(website, URL, 180.0)
 
 #********************#
 #*****PlanetSono*****#
 #********************#
 website = 'PlanetSono'
 #DJ Numark MixtrackPro3
-URL = 'https://planetsono.com/achat/3530-controleur-dj-usb-numark-mixtrack-pro-3.html'
-check_price(website, URL, 150.0)
+#URL = 'https://planetsono.com/achat/3530-controleur-dj-usb-numark-mixtrack-pro-3.html'
+#check_price(website, URL, 150.0)
 
 
 

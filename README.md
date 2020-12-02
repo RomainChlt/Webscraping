@@ -2,7 +2,7 @@
 
 ## Python code for web scraping on different websites
 
-###### The .bat file is just to run scrapyer.py, use the Task Scheduler to launch the .bat file whenever you want !
+###### You have to create a .bat file to run the script automatically
 
 Websites currently supported:
 * sonovente.com
